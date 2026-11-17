@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 15px;
+    font-style: normal;
+}
+
+a {
+    color: darkred;
+    text-decoration: none;
+}
