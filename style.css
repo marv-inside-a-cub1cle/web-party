@@ -10,6 +10,30 @@ h1 {
     font-size: 32px;
 }
 
+h2 {
+    color: white;
+    background-color: darkred;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 2px;
+    padding-left: 14px;
+}
+
+h3 {
+    color: white;
+    background-color: darkred;
+    font-size: 1.25em;
+    margin: 0;
+    padding: 2px;
+    padding-left: 14px;
+}
+
+img {
+    border-style: dashed;
+    border-width: 2px;
+    border-color: darkgray;
+}
+
 p {
     font-size: 15px;
     font-style: normal;
@@ -18,4 +42,5 @@ p {
 a {
     color: darkred;
     text-decoration: none;
+    font-style: italic;
 }
