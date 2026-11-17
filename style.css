@@ -41,7 +41,9 @@ p {
 
 a {
     color: darkred;
+    background-color: darkgray;
     font-size: 1em;
     text-decoration: none;
     font-style: italic;
+    padding: 2px;
 }
